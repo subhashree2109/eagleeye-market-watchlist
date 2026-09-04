@@ -1,0 +1,214 @@
+{
+  "users": {
+    "verify-01": {
+      "watchlist": [
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "price": 124.87,
+          "change": 4.82,
+          "score": 96,
+          "catalyst": "Earnings in 2 days",
+          "note": "Watch AI demand commentary."
+        },
+        {
+          "symbol": "AAPL",
+          "name": "Apple",
+          "price": 228.19,
+          "change": -1.28,
+          "score": 64,
+          "catalyst": "Volume 1.8× average",
+          "note": "Support near $225."
+        },
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "price": 418.35,
+          "change": 2.13,
+          "score": 72,
+          "catalyst": "Cloud strength",
+          "note": "New 20-day high."
+        },
+        {
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "price": 248.98,
+          "change": -5.14,
+          "score": 91,
+          "catalyst": "Delivery report tomorrow",
+          "note": "High volatility regime."
+        }
+      ],
+      "lastSeen": 1788518364714,
+      "createdAt": 1788518364714
+    },
+    "a2d12440-90f9-45cb-b595-c04e95193060": {
+      "watchlist": [
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "price": 418.35,
+          "change": 2.13,
+          "score": 72,
+          "catalyst": "Cloud strength",
+          "note": "New 20-day high."
+        },
+        {
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "price": 248.98,
+          "change": -5.14,
+          "score": 91,
+          "catalyst": "Delivery report tomorrow",
+          "note": "High volatility regime."
+        }
+      ],
+      "lastSeen": 1788518929073,
+      "createdAt": 1788518442265
+    },
+    "eca1ee31-fcd1-4e1c-863d-4c04af979558": {
+      "watchlist": [
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "price": 124.87,
+          "change": 4.82,
+          "score": 96,
+          "catalyst": "Earnings in 2 days"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "Apple",
+          "price": 228.19,
+          "change": -1.28,
+          "score": 64,
+          "catalyst": "Volume 1.8× average"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "price": 418.35,
+          "change": 2.13,
+          "score": 72,
+          "catalyst": "Cloud strength"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "price": 248.98,
+          "change": -5.14,
+          "score": 91,
+          "catalyst": "Delivery report tomorrow"
+        }
+      ],
+      "lastSeen": 1788520843273,
+      "createdAt": 1788520839739,
+      "snapshot": {
+        "NVDA": {
+          "price": 124.8,
+          "asOf": 1788520843273
+        },
+        "AAPL": {
+          "price": 227.89,
+          "asOf": 1788520843273
+        },
+        "MSFT": {
+          "price": 417.34,
+          "asOf": 1788520843273
+        },
+        "TSLA": {
+          "price": 247.47,
+          "asOf": 1788520843273
+        }
+      }
+    },
+    "live-provider-check": {
+      "watchlist": [
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "catalyst": "AI demand and earnings setup"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "Apple",
+          "catalyst": "Product and services momentum"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "catalyst": "Cloud and AI read-through"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "catalyst": "Delivery and margin sensitivity"
+        }
+      ],
+      "lastSeen": 1788521597537,
+      "createdAt": 1788521597537,
+      "snapshot": {
+        "NVDA": {
+          "price": 228.45,
+          "asOf": 1788521597537
+        },
+        "AAPL": {
+          "price": 328.21,
+          "asOf": 1788521597537
+        },
+        "MSFT": {
+          "price": 510.12,
+          "asOf": 1788521597537
+        },
+        "TSLA": {
+          "price": 376.365,
+          "asOf": 1788521597537
+        }
+      }
+    },
+    "1e05a361-5502-44c1-8aec-33645eeab204": {
+      "watchlist": [
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "catalyst": "AI demand and earnings setup"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "Apple",
+          "catalyst": "Product and services momentum"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "catalyst": "Cloud and AI read-through"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "catalyst": "Delivery and margin sensitivity"
+        }
+      ],
+      "lastSeen": 1788553520665,
+      "createdAt": 1788553517388,
+      "snapshot": {
+        "NVDA": {
+          "price": 230.36,
+          "asOf": 1788553520665
+        },
+        "AAPL": {
+          "price": 319.97,
+          "asOf": 1788553520665
+        },
+        "MSFT": {
+          "price": 499.7,
+          "asOf": 1788553520665
+        },
+        "TSLA": {
+          "price": 354.08,
+          "asOf": 1788553520665
+        }
+      }
+    }
+  }
+}
