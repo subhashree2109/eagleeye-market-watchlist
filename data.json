@@ -101,24 +101,24 @@
           "catalyst": "Delivery report tomorrow"
         }
       ],
-      "lastSeen": 1788555156972,
+      "lastSeen": 1788520843273,
       "createdAt": 1788520839739,
       "snapshot": {
         "NVDA": {
-          "price": 230.36,
-          "asOf": 1788555156972
+          "price": 124.8,
+          "asOf": 1788520843273
         },
         "AAPL": {
-          "price": 319.97,
-          "asOf": 1788555156972
+          "price": 227.89,
+          "asOf": 1788520843273
         },
         "MSFT": {
-          "price": 499.7,
-          "asOf": 1788555156972
+          "price": 417.34,
+          "asOf": 1788520843273
         },
         "TSLA": {
-          "price": 354.08,
-          "asOf": 1788555156972
+          "price": 247.47,
+          "asOf": 1788520843273
         }
       }
     },
@@ -163,50 +163,6 @@
         "TSLA": {
           "price": 376.365,
           "asOf": 1788521597537
-        }
-      }
-    },
-    "1e05a361-5502-44c1-8aec-33645eeab204": {
-      "watchlist": [
-        {
-          "symbol": "NVDA",
-          "name": "NVIDIA",
-          "catalyst": "AI demand and earnings setup"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "Apple",
-          "catalyst": "Product and services momentum"
-        },
-        {
-          "symbol": "MSFT",
-          "name": "Microsoft",
-          "catalyst": "Cloud and AI read-through"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "Tesla",
-          "catalyst": "Delivery and margin sensitivity"
-        }
-      ],
-      "lastSeen": 1788553520665,
-      "createdAt": 1788553517388,
-      "snapshot": {
-        "NVDA": {
-          "price": 230.36,
-          "asOf": 1788553520665
-        },
-        "AAPL": {
-          "price": 319.97,
-          "asOf": 1788553520665
-        },
-        "MSFT": {
-          "price": 499.7,
-          "asOf": 1788553520665
-        },
-        "TSLA": {
-          "price": 354.08,
-          "asOf": 1788553520665
         }
       }
     }

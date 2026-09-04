@@ -19,6 +19,8 @@ Open http://localhost:3000. Evaluators can use `npm ci` for the exact locked dep
 2. Copy `.env.example` to `.env.local`.
 3. Put the token in `FINNHUB_API_KEY`, then restart the server.
 
+For Vercel persistence, also set `SUPABASE_URL` and `SUPABASE_SECRET_KEY` (see `.env.example`). EagleEye uses Supabase's server-side REST API directly, so no additional Supabase npm package is required.
+
 The token is used only by server routes. Do not use a `NEXT_PUBLIC_` variable and do not commit `.env.local` publicly.
 
 ## What it does
