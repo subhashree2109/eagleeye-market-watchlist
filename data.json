@@ -101,24 +101,24 @@
           "catalyst": "Delivery report tomorrow"
         }
       ],
-      "lastSeen": 1788520843273,
+      "lastSeen": 1788555156972,
       "createdAt": 1788520839739,
       "snapshot": {
         "NVDA": {
-          "price": 124.8,
-          "asOf": 1788520843273
+          "price": 230.36,
+          "asOf": 1788555156972
         },
         "AAPL": {
-          "price": 227.89,
-          "asOf": 1788520843273
+          "price": 319.97,
+          "asOf": 1788555156972
         },
         "MSFT": {
-          "price": 417.34,
-          "asOf": 1788520843273
+          "price": 499.7,
+          "asOf": 1788555156972
         },
         "TSLA": {
-          "price": 247.47,
-          "asOf": 1788520843273
+          "price": 354.08,
+          "asOf": 1788555156972
         }
       }
     },
